@@ -7,6 +7,17 @@ Notable changes to this project will be documented in this file.
 - **Source Code:** [LM Studio Hub](https://lmstudio.ai/ceveyne/draw-things-index/revisions)
 - **Documentation:** [GitHub Repository](https://github.com/ceveyne/draw-things-index-docs)
 
+---
+
+## [0.1.0] - 2026-01-22 Revision 3
+
+### Fixed
+
+- `retrievalLimit` setting now works more strictly (Agent model can no longer override)
+- Project files now return all image variants for a queried prompt.
+
+---
+
 ## [0.1.0] - 2026-01-22 Revision 2
 
 ### Added
