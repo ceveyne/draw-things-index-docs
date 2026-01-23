@@ -9,6 +9,14 @@ Notable changes to this project will be documented in this file.
 
 ---
 
+## [0.1.0] - 2026-01-23 Revision 4
+
+### Changed
+
+- Improved Semantic Search settings for short queries.
+
+---
+
 ## [0.1.0] - 2026-01-22 Revision 3
 
 ### Fixed
