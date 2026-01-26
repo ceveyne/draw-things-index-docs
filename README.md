@@ -46,9 +46,12 @@ All you need to do is specify which image(s) you'd like to use as a reference (e
 The local search includes (optionally):
 
 - Search Image Generation Logs ([**draw-things-chat**](https://lmstudio.ai/ceveyne/draw-things-chat))
-- Saved Draw Things Images (PNG with Metadata)
+- Saved Draw Things images (PNG with Metadata)
+- Saved ComfyUI images (PNG with Metadata)
 - LM Studio Chat Attachments (PNG with Metadata)
 - **Draw Things** project files (with full generation history)
+
+![index_image_draw-things-chat_comfyui](docs/images/index_image_draw-things-chat_comfyui.jpeg)
 
 From a purely technical standpoint, the plugin should work just... fine. That said, this doesn't mean the results will be "flawless" or even match your expectations perfectly. When things don't work out, it's often less about technical bugs and more about unbalanced settings.
 
@@ -66,7 +69,7 @@ If it works for you, let me know! If it doesn't, also let me know — I'll do my
 
 The requirements for this plugin are pretty manageable. You basically just need some free memory for the embedding model.
 
-👩🏻‍💻 However: Always use the current program and plugin versions. If you want to use the integration with [**draw-things-chat**](https://lmstudio.ai/ceveyne/draw-things-chat), you need to have at least [**draw-things-chat**](https://lmstudio.ai/ceveyne/draw-things-chat) Revision (5) installed. Since there’s no update function for plugins, you’ll need to remove your old version to install the new one. Your settings will remain unchanged.
+👩🏻‍💻 However: Always use the current program and plugin versions. If you want to use the integration with [**draw-things-chat**](https://lmstudio.ai/ceveyne/draw-things-chat), you need to have at least [**draw-things-chat**](https://lmstudio.ai/ceveyne/draw-things-chat) Revision 5 installed. Since there’s no update function for plugins, you’ll need to remove your old version to install the new one. Your settings will remain unchanged.
 
 Changes are documented in the [CHANGELOG](docs/CHANGELOG.md).
 

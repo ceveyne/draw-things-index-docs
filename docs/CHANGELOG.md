@@ -7,6 +7,18 @@ Notable changes to this project will be documented in this file.
 - **Source Code:** [LM Studio Hub](https://lmstudio.ai/ceveyne/draw-things-index/revisions)
 - **Documentation:** [GitHub Repository](https://github.com/ceveyne/draw-things-index-docs)
 
+## [0.1.0] - 2026-01-26 Revision 5
+
+### Added
+
+- Enhanced search results for easier parameter reuse based on former image generations.
+- Added ComfyUI PNG metadata support (reads workflow/prompt from saved PNG).
+
+### Changed
+
+- Improved search results for similar images from different sources.
+- Updated user documentation to reflect the recent changes.
+
 ---
 
 ## [0.1.0] - 2026-01-23 Revision 4
@@ -21,7 +33,7 @@ Notable changes to this project will be documented in this file.
 
 ### Fixed
 
-- `retrievalLimit` setting now works more strictly (Agent model can no longer override)
+- `retrievalLimit` setting now works more strictly (Agent model can no longer override).
 - Project files now return all image variants for a queried prompt.
 
 ---
@@ -30,11 +42,11 @@ Notable changes to this project will be documented in this file.
 
 ### Added
 
-- Small additions to the user documentation
+- Small additions to the user documentation.
 
 ### Fixed
 
-- Project file parser now extracts all image variants
+- Project file parser now extracts all image variants.
 
 ---
 
