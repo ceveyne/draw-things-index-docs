@@ -7,6 +7,16 @@ Notable changes to this project will be documented in this file.
 - **Source Code:** [LM Studio Hub](https://lmstudio.ai/ceveyne/draw-things-index/revisions)
 - **Documentation:** [GitHub Repository](https://github.com/ceveyne/draw-things-index-docs)
 
+---
+
+## [0.1.0] - 2026-01-29 Revision 6
+
+### Added
+
+New screenshots to reflect the recent update to LM Studio 0.4.0.
+
+---
+
 ## [0.1.0] - 2026-01-26 Revision 5
 
 ### Added
