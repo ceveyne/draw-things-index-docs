@@ -9,6 +9,14 @@ Notable changes to this project will be documented in this file.
 
 ---
 
+## [0.1.0] - 2026-02-01 Revision 7
+
+### Added
+
+Added multiple folder support for images with embedded metadata (Draw Things XMP, ComfyUI prompt JSON).
+
+---
+
 ## [0.1.0] - 2026-01-29 Revision 6
 
 ### Added
