@@ -7,13 +7,19 @@ Notable changes to this project will be documented in this file.
 - **Source Code:** [LM Studio Hub](https://lmstudio.ai/ceveyne/draw-things-index/revisions)
 - **Documentation:** [GitHub Repository](https://github.com/ceveyne/draw-things-index-docs)
 
+## [0.1.0] - 2026-02-08 Revision 8
+
+### Changed
+
+- Improved search results for metadata-related queries (size, model, LoRAs, source, project, timestamp).
+
 ---
 
 ## [0.1.0] - 2026-02-01 Revision 7
 
 ### Added
 
-Added multiple folder support for images with embedded metadata (Draw Things XMP, ComfyUI prompt JSON).
+- Added multiple folder support for images with embedded metadata (Draw Things XMP, ComfyUI prompt JSON).
 
 ---
 
@@ -21,7 +27,7 @@ Added multiple folder support for images with embedded metadata (Draw Things XMP
 
 ### Added
 
-New screenshots to reflect the recent update to LM Studio 0.4.0.
+- New screenshots to reflect the recent update to LM Studio 0.4.0.
 
 ---
 
