@@ -7,6 +7,17 @@ Notable changes to this project will be documented in this file.
 - **Source Code:** [LM Studio Hub](https://lmstudio.ai/ceveyne/draw-things-index/revisions)
 - **Documentation:** [GitHub Repository](https://github.com/ceveyne/draw-things-index-docs)
 
+---
+
+## [0.1.0] - 2026-03-11 Revision 9
+
+### Changed
+
+- Search results now alternate between different source types for more variety.
+- Project file parsing skips non-generated entries and deduplicates LoRAs.
+
+---
+
 ## [0.1.0] - 2026-02-08 Revision 8
 
 ### Changed
@@ -70,17 +81,17 @@ Notable changes to this project will be documented in this file.
 
 ### Fixed
 
-- Project file parser now extracts all image variants.
+- Project file parser now extracts all image variants (was missing regenerations with pk1 > 1).
 
 ---
 
-## [0.1.0] - 2026-01-21 - Revision 1
+## [0.1.0] - 2026-01-21 Revision 1
 
 ### Added
 
 - Initial release
 - LM Studio Plugin to search through your Draw Things generation history
-- Multi-source indexing (**draw-things-chat** generation logs, PNGs from former generations, Chat attachments, Draw Things projects files)
+- Multi-source indexing (**draw-things-chat** generation logs, PNGs from former generations, Chat attachments, Draw Things project files)
 - Reactive file watchers (instant cache invalidation)
 - Word-boundary matching
 - English stemming (cats→cat, running→run)
