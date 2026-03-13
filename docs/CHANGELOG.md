@@ -9,6 +9,18 @@ Notable changes to this project will be documented in this file.
 
 ---
 
+## [0.1.0] - 2026-03-13 Revision 10
+
+### Added
+
+- Added Support for modes `text2video` and `image2video`.
+
+### Fixed
+
+- Project file parser now reads SQLite WAL (Write-Ahead Log) data. Draw Things uses WAL journaling mode, causing recent generations to be invisible to the previous `sql.js`-only reader. The parser now detects `-wal` sidecar files and uses native `sqlite3 VACUUM INTO` to create a merged temporary copy before parsing.
+
+---
+
 ## [0.1.0] - 2026-03-11 Revision 9
 
 ### Changed
