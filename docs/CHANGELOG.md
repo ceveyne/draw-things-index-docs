@@ -9,7 +9,15 @@ Notable changes to this project will be documented in this file.
 
 ---
 
-## [0.1.0] - 2026-03-13 Revision 10
+## [0.1.12] - 2026-04-01 Revision 11/12
+
+### Changed
+
+- Extended FlatBuffers schema for future use.
+
+---
+
+## [0.1.10] - 2026-03-13 Revision 10
 
 ### Added
 
@@ -21,7 +29,7 @@ Notable changes to this project will be documented in this file.
 
 ---
 
-## [0.1.0] - 2026-03-11 Revision 9
+## [0.1.9] - 2026-03-11 Revision 9
 
 ### Changed
 
@@ -30,7 +38,7 @@ Notable changes to this project will be documented in this file.
 
 ---
 
-## [0.1.0] - 2026-02-08 Revision 8
+## [0.1.8] - 2026-02-08 Revision 8
 
 ### Changed
 
@@ -38,7 +46,7 @@ Notable changes to this project will be documented in this file.
 
 ---
 
-## [0.1.0] - 2026-02-01 Revision 7
+## [0.1.7] - 2026-02-01 Revision 7
 
 ### Added
 
@@ -46,7 +54,7 @@ Notable changes to this project will be documented in this file.
 
 ---
 
-## [0.1.0] - 2026-01-29 Revision 6
+## [0.1.6] - 2026-01-29 Revision 6
 
 ### Added
 
@@ -54,7 +62,7 @@ Notable changes to this project will be documented in this file.
 
 ---
 
-## [0.1.0] - 2026-01-26 Revision 5
+## [0.1.5] - 2026-01-26 Revision 5
 
 ### Added
 
@@ -68,7 +76,7 @@ Notable changes to this project will be documented in this file.
 
 ---
 
-## [0.1.0] - 2026-01-23 Revision 4
+## [0.1.4] - 2026-01-23 Revision 4
 
 ### Changed
 
@@ -76,7 +84,7 @@ Notable changes to this project will be documented in this file.
 
 ---
 
-## [0.1.0] - 2026-01-22 Revision 3
+## [0.1.3] - 2026-01-22 Revision 3
 
 ### Fixed
 
@@ -85,7 +93,7 @@ Notable changes to this project will be documented in this file.
 
 ---
 
-## [0.1.0] - 2026-01-22 Revision 2
+## [0.1.2] - 2026-01-22 Revision 2
 
 ### Added
 
@@ -97,7 +105,7 @@ Notable changes to this project will be documented in this file.
 
 ---
 
-## [0.1.0] - 2026-01-21 Revision 1
+## [0.1.1] - 2026-01-21 Revision 1
 
 ### Added
 
