@@ -9,6 +9,18 @@ Notable changes to this project will be documented in this file.
 
 ---
 
+## [0.1.13] - 2026-04-04 Revision 13
+
+### Added
+
+- Index notation support in `query`: `aN`, `vN`, `iN`, `pN` are automatically resolved to filenames before searching (e.g., "a1" finds the image by the filename of attachment 1).
+
+### Changed
+
+- `jsonlLogsDirectories` setting (replaces `jsonlLogsDirectory`) now accepts an array of log folder paths, allowing audit logs from multiple plugins to be indexed.
+
+---
+
 ## [0.1.12] - 2026-04-01 Revision 11/12
 
 ### Changed
