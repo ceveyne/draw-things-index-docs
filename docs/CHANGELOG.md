@@ -9,6 +9,14 @@ Notable changes to this project will be documented in this file.
 
 ---
 
+## [0.1.14] - 2026-04-08 Revision 14
+
+### Changed
+
+- Changed default image directory to `.lmstudio/working-directories`. Useful if "Embed Metadata in PNGs" is enabled in `draw-things-chat`.
+
+---
+
 ## [0.1.13] - 2026-04-04 Revision 13
 
 ### Added
