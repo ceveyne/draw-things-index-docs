@@ -9,6 +9,15 @@ Notable changes to this project will be documented in this file.
 
 ---
 
+## [0.1.15] - 2026-04-23 Revision 15
+
+### Added
+
+- Added LITX-2.3 1.1 model family.
+- Added 8-bit S (`i8x`) model filenames for Z Image, Qwen Image, Qwen Edit, FLUX.2 [klein] 4B, and LTX-2.3.
+
+---
+
 ## [0.1.14] - 2026-04-08 Revision 14
 
 ### Changed
