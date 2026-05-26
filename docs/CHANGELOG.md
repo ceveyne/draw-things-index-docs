@@ -9,7 +9,24 @@ Notable changes to this project will be documented in this file.
 
 ---
 
-## [0.1.15] - 2026-04-23 Revision 15
+## [0.1.17] - 2026-05-26 Revision 17
+
+### Added
+
+- `index_image` now accepts a Draw Things project filename (e.g. `"my-project.sqlite3"`) as query and returns all generations from that project in chronological order. Results are not filtered by `retrievalLimit` and semantic search is skipped for these queries.
+
+---
+
+## [0.1.15] - 2026-05-24 Revision 16
+
+### Changed
+
+- Dead-link filtering now runs before the `retrievalLimit` slice in `searchGenerations`. Previously, a top-scoring generation whose image files were missing would consume one of the top-N slots and lower-ranked alive generations would never surface. With this change, `retrievalLimit=5` returns up to 5 generations whose images still exist on disk.
+- Optimized multi-term queries: synonym lists no longer return fewer hits than a single-term subset. Default `minMatchScore` lowered from 70 to 65 so partial matches in long queries pass the threshold.
+
+---
+
+## [0.1.15] - 2026-04-24 Revision 15
 
 ### Added
 
