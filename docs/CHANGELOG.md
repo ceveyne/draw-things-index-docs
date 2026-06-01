@@ -9,6 +9,14 @@ Notable changes to this project will be documented in this file.
 
 ---
 
+## [0.1.18] - 2026-06-02 Revision 18
+
+### Changed
+
+- Optimized semantic search parameters.
+
+---
+
 ## [0.1.17] - 2026-05-26 Revision 17
 
 ### Added
