@@ -11,6 +11,7 @@
 !docs/**
 !docs/images/
 !docs/images/**
+**/.DS_Store
 
 # GitHub config
 .github/
