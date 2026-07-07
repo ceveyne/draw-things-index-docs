@@ -9,6 +9,15 @@ Notable changes to this project will be documented in this file.
 
 ---
 
+## [0.1.19] - 2026-07-07 Revision 19
+
+### Changed
+
+- Reused cached Draw Things project metadata across plugin restarts, reducing repeated project parsing for unchanged `.sqlite3` files.
+- Improved `index_image` reliability during overlapping index runs and made media-handle queries (`aN`, `vN`, `iN`, `pN`) resolve more consistently.
+
+---
+
 ## [0.1.18] - 2026-06-02 Revision 18
 
 ### Changed
