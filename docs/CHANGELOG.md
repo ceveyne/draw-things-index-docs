@@ -9,10 +9,11 @@ Notable changes to this project will be documented in this file.
 
 ---
 
-## [0.1.19] - 2026-07-07 Revision 19
+## [0.1.19] - 2026-07-09 Revision 19
 
 ### Changed
 
+- Moved persistent index data from the plugin-local `data/` directory to `~/.draw-things-index`, so plugin updates no longer remove cached embeddings or project metadata.
 - Reused cached Draw Things project metadata across plugin restarts, reducing repeated project parsing for unchanged `.sqlite3` files.
 - Improved `index_image` reliability during overlapping index runs and made media-handle queries (`aN`, `vN`, `iN`, `pN`) resolve more consistently.
 
