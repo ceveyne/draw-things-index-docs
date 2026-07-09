@@ -9,6 +9,14 @@ Notable changes to this project will be documented in this file.
 
 ---
 
+## [0.1.20] - 2026-07-09 Revision 20
+
+### Fixed
+
+- Declared `flatbuffers` as an explicit dependency in `package.json`.
+
+---
+
 ## [0.1.19] - 2026-07-09 Revision 19
 
 ### Changed
