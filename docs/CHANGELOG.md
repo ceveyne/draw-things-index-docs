@@ -9,6 +9,14 @@ Notable changes to this project will be documented in this file.
 
 ---
 
+## [0.1.21] - 2026-07-17 Revision 21
+
+### Changed
+
+- Improved Draw Things project-file thumbnail import compatibility.
+
+---
+
 ## [0.1.20] - 2026-07-09 Revision 20
 
 ### Fixed
