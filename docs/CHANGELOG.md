@@ -9,6 +9,14 @@ Notable changes to this project will be documented in this file.
 
 ---
 
+## [0.1.22] - 2026-07-18 Revision 22
+
+### Fixed
+
+- Draw Things projects are no longer modified during indexing.
+
+---
+
 ## [0.1.21] - 2026-07-17 Revision 21
 
 ### Changed
